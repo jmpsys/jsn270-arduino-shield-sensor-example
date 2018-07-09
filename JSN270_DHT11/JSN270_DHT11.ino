@@ -4,8 +4,8 @@
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 
-#define SSID      "iPhone 8+"    // your wifi network SSID
-#define KEY       "12345678"    // your wifi network password
+#define SSID      "SSID"    // your wifi network SSID
+#define KEY       "KEY"    // your wifi network password
 #define AUTH       "WPA2"     // your wifi network security (NONE, WEP, WPA, WPA2)
 
 #define USE_DHCP_IP 1
